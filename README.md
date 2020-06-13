@@ -1,5 +1,5 @@
 # countdown-responsive-page
-Responsive countdown with basic html, css and js.
+Countdown with basic html, css and js.
 
 Hello,
 Thanks for join!
